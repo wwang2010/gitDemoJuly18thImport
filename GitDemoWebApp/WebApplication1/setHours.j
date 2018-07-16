@@ -4,7 +4,7 @@
 
 <h2>JavaScript setHours()</h2>
 
-<p>The setHours() method sets the hours of a date object1:</p>
+<p>The setHours() method sets the hours of a date object1:hi</p>
 
 <p id="demo"></p>
 
