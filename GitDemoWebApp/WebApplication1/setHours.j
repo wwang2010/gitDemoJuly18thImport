@@ -6,7 +6,7 @@
 
 <p>The setHours method sets the hours of a date object1:2345</p>
 
-<p id="demo"></p>
+<p id="demo2"></p>
 
 <script>
 var d = new Date();
