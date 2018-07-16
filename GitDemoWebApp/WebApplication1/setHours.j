@@ -10,7 +10,7 @@
 
 <script>
 var d = new Date();
-d.setHours(22);
+d.setHours(20);
 document.getElementById("demo").innerHTML = d;
 </script>
 
