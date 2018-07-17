@@ -4,3 +4,4 @@ function myFunction(p1, p2) {
 }
     document.getElementById("demo").innerHTML = myFunction(4, 3);
    
+    alert("hello");
