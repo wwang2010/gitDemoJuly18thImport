@@ -1,4 +1,4 @@
-﻿/*test*/
+﻿/*test Lakshmi stage*/
 function loadDoc(url, cFunction) {
     var xhttp;
     xhttp = new XMLHttpRequest();
