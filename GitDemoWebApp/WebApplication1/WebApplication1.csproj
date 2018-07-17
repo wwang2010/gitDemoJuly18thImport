@@ -81,6 +81,7 @@
     <Content Include="packages.config" />
     <Content Include="RandomNo.js" />
     <Content Include="Registration.aspx" />
+    <Content Include="sample.html" />
     <Content Include="Scope.html" />
     <Content Include="setHours.j" />
     <None Include="Web.Debug.config">
