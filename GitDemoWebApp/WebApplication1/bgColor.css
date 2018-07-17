@@ -1,13 +1,18 @@
 ﻿body {
-    background-color: lightblue;
+    background-color: lightblue;/*asasas*/
 }
 
 h1 {
-     color: black;
+     color: green;
      text-align: center;
  }
 
  p {
+     font-family: verdana;
+     font-size: 20px;
+ }
+
+ h2 {
      font-family: verdana;
      font-size: 20px;
  }

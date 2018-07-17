@@ -1,4 +1,5 @@
-﻿function loadDoc(url, cFunction) {
+﻿/*test Lakshmi stage change test*/
+function loadDoc(url, cFunction) {
     var xhttp;
     xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
