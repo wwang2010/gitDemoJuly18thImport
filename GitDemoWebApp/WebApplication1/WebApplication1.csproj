@@ -71,6 +71,7 @@
     <Content Include="Calculate.js" />
     <Content Include="Color.html" />
     <Content Include="DisplayDate.js" />
+    <Content Include="Headers.css" />
     <Content Include="JSExpressions.js" />
     <Content Include="Length.html" />
     <Content Include="login.aspx" />
