@@ -76,6 +76,7 @@
     <Content Include="MaxSum.js" />
     <Content Include="Objects.js" />
     <Content Include="packages.config" />
+    <Content Include="RandomNo.js" />
     <Content Include="Registration.aspx" />
     <Content Include="Scope.html" />
     <Content Include="setHours.j" />
