@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Ajaxjs.js" />
     <Content Include="Calculate.js" />
     <Content Include="Color.html" />
     <Content Include="DisplayDate.js" />
