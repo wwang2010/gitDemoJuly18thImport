@@ -1,0 +1,6 @@
+﻿<style>
+h2:after {
+    content: ' \00A7';
+}
+</style> body {
+}
