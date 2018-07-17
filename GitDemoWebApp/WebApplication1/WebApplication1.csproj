@@ -70,6 +70,7 @@
     <Content Include="JSExpressions.js" />
     <Content Include="login.aspx" />
     <Content Include="packages.config" />
+    <Content Include="setHours.j" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
