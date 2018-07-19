@@ -72,6 +72,7 @@
     <Content Include="Color.html" />
     <Content Include="DisplayDate.js" />
     <Content Include="h2styles.css" />
+    <Content Include="HtmlPage1.html" />
     <Content Include="JSExpressions.js" />
     <Content Include="Length.html" />
     <Content Include="login.aspx" />
